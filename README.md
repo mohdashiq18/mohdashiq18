@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif)](https://mohdashiq18.github.io)
 <h1 align="center">Hi 👋, I'm Mohd Ashique</h1>
-<h3 align="center">A passionate full stack developer </h3>
+<h3 align="center">Aspiring Full Stack Web Developer. Self-confident and passionate about designing websites and very enthusiastic which ensures my work. </h3>
 <img align="right"alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdashiq18&label=Profile%20views&color=0e75b6&style=flat" alt="mohdashiq18" /> </p>
