@@ -143,7 +143,7 @@ product-based company.
       <br/>
       <br/>
       
-     <p> <img alt="Mohd Ashique Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohdashiq18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </p>
+
       
       <br/>
       <br/>
