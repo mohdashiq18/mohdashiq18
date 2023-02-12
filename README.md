@@ -1,8 +1,4 @@
-
-<img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350"/>
-      
-      
-   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Mohd Ashique <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Mohd Ashique <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohdashiq18&label=Profile%20views&color=9130c2&style=flat" alt="Mohd Ashique" /> </p>
       
@@ -13,15 +9,13 @@ MERN stack. Passionate about coding
 and intensely interested in working in a
 product-based company.
 </h3>
-      
-   
-      
+          
    <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Mohd Ashique 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
-      
-
+       <img src="https://raw.githubusercontent.com/Awresh/Awresh/a9841b52bbca6d31a0bbc44ef5dfde15a54551f1/contributions.svg" alt="javascript" width="100%" />
+  
  
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohdashiq18" alt="Mohd Ashique" /> </p>
 </br>
