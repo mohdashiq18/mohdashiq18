@@ -28,7 +28,7 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1ixjVZIB4taCtiB-EitAwQvr1hhwBWUW0/view?usp=sharing" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1jfsGnW8jMGHd_L5HIvraUDcKsTAIemJD/view?usp=sharing" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://mohdashiq18.github.io" target="_blank"  >Portfolio</a>
       
